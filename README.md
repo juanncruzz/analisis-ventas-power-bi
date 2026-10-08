@@ -74,5 +74,4 @@ Power BI Desktop · Power Query · DAX · Excel
 ## Archivos
 
 - `Tablero_Ventas.pbix` — archivo de Power BI
-- `Tablero_Ventas.pdf` — tablero exportado
 - `Tienda_Bijou_datos.xlsx` — datos usados
